@@ -6,4 +6,4 @@ obfuscated shell script as './configure' -- Joshua Stein
 
 So go on
 
-curl https://raw.githubusercontent.com/stmuk/rakudup/master/rakudup | bash
+curl https://rakudup.github.io/rakudup -s | bash
